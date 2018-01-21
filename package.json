@@ -1,0 +1,9 @@
+{
+    "name": "grunt-tutorial",
+    "version": "0.1.0",
+    "devDependencies": {
+        "grunt": "~0.4.5",
+        "grunt-contrib-uglify": "^2.0.0",
+        "matchdep": "^1.0.1"
+    }
+}
